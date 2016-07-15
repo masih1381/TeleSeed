@@ -2,7 +2,7 @@
 
 BY [MEHDIIISUDO](https://telegram.me/mehdiiisudo)
 
-[CHANNEL lua] : (https://telegram.me/lua_bots)
+[CHANNEL lua](https://telegram.me/lua_bots)
 
 # [TeleSeed](https://telegram.me/LUA_BOTS)
 
